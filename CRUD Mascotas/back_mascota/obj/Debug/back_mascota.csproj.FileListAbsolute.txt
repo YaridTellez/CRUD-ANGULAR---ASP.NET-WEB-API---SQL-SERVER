@@ -283,3 +283,6 @@ C:\Users\ADMIN1\Desktop\CRUD-ANGULAR---ASP.NET-WEB-API---SQL-SERVER\CRUD Mascota
 C:\Users\ADMIN1\Desktop\CRUD-ANGULAR---ASP.NET-WEB-API---SQL-SERVER\CRUD Mascotas\back_mascota\obj\Debug\back_mascota.csproj.CopyComplete
 C:\Users\ADMIN1\Desktop\CRUD-ANGULAR---ASP.NET-WEB-API---SQL-SERVER\CRUD Mascotas\back_mascota\obj\Debug\back_mascota.dll
 C:\Users\ADMIN1\Desktop\CRUD-ANGULAR---ASP.NET-WEB-API---SQL-SERVER\CRUD Mascotas\back_mascota\obj\Debug\back_mascota.pdb
+C:\Users\ADMIN1\Desktop\CRUD-ANGULAR---ASP.NET-WEB-API---SQL-SERVER\CRUD Mascotas\back_mascota\bin\System.Web.Cors.dll
+C:\Users\ADMIN1\Desktop\CRUD-ANGULAR---ASP.NET-WEB-API---SQL-SERVER\CRUD Mascotas\back_mascota\bin\System.Web.Http.Cors.dll
+C:\Users\ADMIN1\Desktop\CRUD-ANGULAR---ASP.NET-WEB-API---SQL-SERVER\CRUD Mascotas\back_mascota\bin\System.Web.Http.Cors.xml
